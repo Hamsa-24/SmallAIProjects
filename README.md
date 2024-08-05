@@ -1,0 +1,2 @@
+# SmallAIProjects
+Small AI implementations
